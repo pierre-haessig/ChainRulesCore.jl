@@ -50,6 +50,8 @@ ProjectTo
 ```@docs
 ChainRulesCore.AbstractTangent
 ChainRulesCore.debug_mode
+ChainRulesCore.no_rrule
+ChainRulesCore.no_frule
 ```
 
 ## Deprecated
